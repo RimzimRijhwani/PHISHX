@@ -2,7 +2,7 @@ import requests
 import csv
 import socket
 
-API_KEY = 'AIzaSyCdAdrt2vnwupDEKVT2LixDtOPwdeSic6o'
+API_KEY = ''
 
 def is_url_safe(url):
     if not url.startswith(("http://", "https://")):
